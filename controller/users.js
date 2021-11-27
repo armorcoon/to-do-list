@@ -1,5 +1,4 @@
 const User = require("../models/User");
-const UserGps = require("../models/UserGps");
 
 // @desc  Get all stores from database
 // @route GET /api/v1/stores
